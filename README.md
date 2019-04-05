@@ -1,4 +1,4 @@
-# react-hook-introdunction
+# React Hook Introduction
 
 ## Run the project
 * Clone the repo
